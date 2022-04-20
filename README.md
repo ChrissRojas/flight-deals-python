@@ -9,7 +9,7 @@ Various APIs are used to gain the flight data as well as to update the google sp
 If you do plan on using this program the following is needed:
 
 - The Twilio API for sending SMS (Don't Worry this has a free trial to test out without the need to update)
-- Kiwi API for flight data (Also free)
+- Tequila API for flight data (Also free)
 - Sheety API for updating API (Be careful this only has 200 free requests)
 - The Requests Library (High Level Library which uses URLLib for requests) (Download using PIP)
 - SMTP Library for sending emails. (Part of the python standard library) 
